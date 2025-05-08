@@ -2,25 +2,20 @@
 <!-- PROJECT LOGO -->
 
 <h1 align="center">Angular v19 - The modern web developer's platform </h1>
-
-<img src="assets/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
-
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="https://img.icons8.com/fluency/144/000000/node-js.png"/>
+    <img src="https://img.icons8.com/fluency/120/000000/node-js.png"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/fluency/144/000000/typescript.png"/>
+    <img src="https://img.icons8.com/fluency/120/000000/typescript.png"/>
+  </a>
+    <img src="assets/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/120/000000/javascript.png"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/fluency/144/000000/javascript.png"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/fluency/144/000000/angular.png"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/fluency/144/000000/node.js.png"/>
+    <img src="https://img.icons8.com/fluency/120/000000/mongodb.js.png"/>
   </a>
     
   </div>
