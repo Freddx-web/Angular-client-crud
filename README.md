@@ -5,17 +5,17 @@
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="https://img.icons8.com/fluency/120/000000/node-js.png"/>
+    <img src="https://img.icons8.com/fluency/100/000000/node-js.png"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/fluency/120/000000/typescript.png"/>
+    <img src="https://img.icons8.com/fluency/100/000000/typescript.png"/>
   </a>
-    <img src="assets/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
+    <img src="assets/angular_icon_gradient.gif" alt="angular-logo" width="160px" height="160px"/>
   <a href="#">
-    <img src="https://img.icons8.com/fluency/120/000000/javascript.png"/>
+    <img src="https://img.icons8.com/fluency/100/000000/javascript.png"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/fluency/120/000000/mongodb.js.png"/>
+    <img src="https://img.icons8.com/color/100/null/mongodb.png"/>
   </a>
     
   </div>
