@@ -1,11 +1,9 @@
-# Angular-client-crud
-
 
 <!-- PROJECT LOGO -->
 
 <h1 align="center">Angular v19 - The modern web developer's platform </h1>
 
-<img src="assets/images/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
+<img src="assets/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
 
 <p align="center">
   <div align="center">
